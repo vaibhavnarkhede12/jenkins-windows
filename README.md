@@ -34,6 +34,9 @@ https://www.jenkins.io/download/
 
 ***************************************************************************************************
 
+1. dashboard new item - > create folder ( jenkins_pipeline ) -> new item -> multibranch pipeline ( golang_demo_pipeline )
+2. 
+
 
 
 
